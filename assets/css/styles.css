@@ -253,7 +253,7 @@ img {
 }
 
 .home__blob {
-  fill:  hsl(317.35deg 50.94% 28.27%);
+  fill: hsl(317.35deg 24.92% 73.98%);;
   width: 90%;
   margin-top: auto;
 }
@@ -334,7 +334,7 @@ img {
 .skills__icon {
   font-size: 2rem;
   margin-right: var(--mb-2);
-  color:  hsl(317.35deg 50.94% 28.27%);
+  color:   hsl(317.35deg 39.12% 53.42%);;
 }
 
 .skills__names {
@@ -414,7 +414,7 @@ img {
 
 /* ===== FOOTER =====*/
 .footer {
-  background-color: var(--second-color);
+  background-color: #26041a;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
